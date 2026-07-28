@@ -100,45 +100,7 @@ Computer vision system developed during my internship at the **National Universi
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=NitinPrime&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=NitinPrime&show_icons=true&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=NitinPrime&show_icons=true&hide_border=true"
-    alt="Nitin's GitHub Stats"
-  />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinPrime&layout=compact&hide_border=true&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinPrime&layout=compact&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinPrime&layout=compact&hide_border=true"
-    alt="Nitin's Top Languages"
-  />
-</picture>
-
-</div>
-
----
 
 ## 🐍 Contributions
 
