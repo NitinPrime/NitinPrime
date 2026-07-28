@@ -102,7 +102,6 @@ Computer vision system developed during my internship at the **National Universi
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
 
 <picture>
