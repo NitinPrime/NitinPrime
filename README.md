@@ -1,29 +1,41 @@
-<h1 align="center">Hey, I'm Nitin 👋</h1>
+<div align="center">
 
-<h3 align="center">
-  Software Engineer • AI & Full-Stack Developer • Product Builder
-</h3>
+# Hey, I'm Nitin 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nitin-s-/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:nitinprime2323@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+### Software Engineer • AI & Full-Stack Developer • Product Builder
+
+Building intelligent products at the intersection of  
+**AI • Software Engineering • Product • Business**
+
+<br>
+
+<a href="https://www.linkedin.com/in/nitin-s-/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:nitinprime2323@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in **Information Technology** — PSG College of Technology
-- 🇸🇬 Former AI Intern at **National University of Singapore**
-- 🚀 Founding Engineer at **ChiefPulse**
-- 🧠 Interested in **AI, Software Engineering, Product Development & Forward Deployed Engineering**
-- 🛠️ I enjoy taking ideas from **problem → architecture → product → deployment**
-- 🌱 Currently sharpening my **Python, DSA, SQL & system design**
-- 💼 Open to full-time software, AI and customer-facing technical engineering opportunities
+🎓 B.Tech Information Technology — **PSG College of Technology**
+
+🇸🇬 Former AI Intern — **National University of Singapore**
+
+🚀 Founding Engineer — **ChiefPulse**
+
+🧠 Interested in **AI, Full-Stack Engineering, Product Engineering & Forward Deployed Engineering**
+
+🛠️ I enjoy taking products from **problem → architecture → implementation → deployment**
+
+📚 Currently strengthening **Python, DSA, SQL & System Design**
+
+💼 Open to full-time opportunities across **Software Engineering, AI/ML and customer-facing technical engineering**
 
 ---
 
@@ -53,7 +65,7 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 </p>
 
-`LLMs` • `RAG` • `AI Agents` • `Prompt Engineering` • `Computer Vision`
+**LLMs • RAG • AI Agents • Computer Vision • Prompt Engineering**
 
 ### Cloud & DevOps
 
@@ -67,11 +79,11 @@
 
 ### 🧠 ChiefPulse
 
-**AI-powered executive productivity platform for founders and business leaders.**
+AI-powered executive productivity platform designed to help founders and business leaders cut through information overload and focus on what matters.
 
-Working as the Founding Engineer across product architecture, full-stack development, AI features, integrations and deployment.
+As **Founding Engineer**, I work across product architecture, full-stack engineering, AI capabilities, integrations and deployment.
 
-`TypeScript` `React` `Supabase` `PostgreSQL` `LLMs` `AI Agents`
+**Tech:** `TypeScript` `React` `PostgreSQL` `Supabase` `LLMs`
 
 ---
 
@@ -80,49 +92,50 @@ Working as the Founding Engineer across product architecture, full-stack develop
 Computer vision system developed during my internship at the **National University of Singapore**.
 
 - Built a CNN-based accident detection pipeline
-- Achieved **~85% detection accuracy**
+- Achieved approximately **85% detection accuracy**
 - Developed during an intensive **7-day sprint**
 - Worked with real-time video processing and cloud ML infrastructure
 
-`Python` `TensorFlow` `OpenCV` `AWS SageMaker`
+**Tech:** `Python` `TensorFlow` `OpenCV` `AWS SageMaker`
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&hide_border=true"
-  />
-</p>
+<img height="170"
+     src="https://github-readme-stats.vercel.app/api?username=NitinPrime&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img height="170"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinPrime&layout=compact&hide_border=true" />
+
+</div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"
+     alt="GitHub Contribution Snake" />
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-I'm interested in building products at the intersection of **software, AI, data and real-world business problems**.
+### Let's build something interesting.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nitin-s-/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+I enjoy working on problems where  
+**software + AI + data + real-world business problems** meet.
+
+<br>
+
+<a href="https://www.linkedin.com/in/nitin-s-/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
